@@ -1,0 +1,15 @@
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\bin\Debug\net6.0\sharp_task.exe
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\bin\Debug\net6.0\sharp_task.deps.json
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\bin\Debug\net6.0\sharp_task.runtimeconfig.json
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\bin\Debug\net6.0\sharp_task.dll
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\bin\Debug\net6.0\sharp_task.pdb
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\obj\Debug\net6.0\sharp_task.csproj.AssemblyReference.cache
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\obj\Debug\net6.0\sharp_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\obj\Debug\net6.0\sharp_task.AssemblyInfoInputs.cache
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\obj\Debug\net6.0\sharp_task.AssemblyInfo.cs
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\obj\Debug\net6.0\sharp_task.csproj.CoreCompileInputs.cache
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\obj\Debug\net6.0\sharp_task.dll
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\obj\Debug\net6.0\refint\sharp_task.dll
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\obj\Debug\net6.0\sharp_task.pdb
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\obj\Debug\net6.0\sharp_task.genruntimeconfig.cache
+C:\Users\Илья Корнилов\source\repos\sharp_task\sharp_task\obj\Debug\net6.0\ref\sharp_task.dll
