@@ -1,0 +1,13 @@
+D:\уроки\сишарп\task3\task3\bin\Debug\netcoreapp3.1\task3.exe
+D:\уроки\сишарп\task3\task3\bin\Debug\netcoreapp3.1\task3.deps.json
+D:\уроки\сишарп\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.json
+D:\уроки\сишарп\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.dev.json
+D:\уроки\сишарп\task3\task3\bin\Debug\netcoreapp3.1\task3.dll
+D:\уроки\сишарп\task3\task3\bin\Debug\netcoreapp3.1\task3.pdb
+D:\уроки\сишарп\task3\task3\obj\Debug\netcoreapp3.1\task3.csprojAssemblyReference.cache
+D:\уроки\сишарп\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfoInputs.cache
+D:\уроки\сишарп\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfo.cs
+D:\уроки\сишарп\task3\task3\obj\Debug\netcoreapp3.1\task3.csproj.CoreCompileInputs.cache
+D:\уроки\сишарп\task3\task3\obj\Debug\netcoreapp3.1\task3.dll
+D:\уроки\сишарп\task3\task3\obj\Debug\netcoreapp3.1\task3.pdb
+D:\уроки\сишарп\task3\task3\obj\Debug\netcoreapp3.1\task3.genruntimeconfig.cache
