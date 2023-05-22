@@ -1,0 +1,11 @@
+D:\уроки\сишарп\task6\task6\bin\Debug\task6.exe.config
+D:\уроки\сишарп\task6\task6\bin\Debug\task6.exe
+D:\уроки\сишарп\task6\task6\bin\Debug\task6.pdb
+D:\уроки\сишарп\task6\task6\obj\Debug\spacelib.Form1.resources
+D:\уроки\сишарп\task6\task6\obj\Debug\spacelib.Form2.resources
+D:\уроки\сишарп\task6\task6\obj\Debug\task6.Properties.Resources.resources
+D:\уроки\сишарп\task6\task6\obj\Debug\spacelib.csproj.GenerateResource.cache
+D:\уроки\сишарп\task6\task6\obj\Debug\spacelib.csproj.CoreCompileInputs.cache
+D:\уроки\сишарп\task6\task6\obj\Debug\task6.exe
+D:\уроки\сишарп\task6\task6\obj\Debug\task6.pdb
+D:\уроки\сишарп\task6\task6\obj\Debug\spacelib.csprojAssemblyReference.cache
